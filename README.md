@@ -15,3 +15,4 @@ Robin, who loves astronomy and wants to work for NASA one day, has decided to us
 Web scraping is a method used by organizations worldwide to extract online data for analysis. Large co
 employ web scraping to assess their reputations or track their competitors' online presence.
 On a smaller scale, web scraping automates tedious tasks for personal projects.
+![data-10-1-1-1-use-the-web-scraping-method-extract-into-mongo](https://user-images.githubusercontent.com/23488019/148616782-98d2d5ab-c80b-411d-8847-5f30d4a985ee.png)
