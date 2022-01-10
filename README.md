@@ -95,4 +95,4 @@ From the Astrogeology site, full resolution images for each of Mars' hemispheres
 ## Bootstrap components added extra:
 
 1. Bold - <strong></strong> was added to the titles to make texts in bold format.
-2. Bootstrap Heading - Bootstrap heading <h1></h1> to <h4></h4> were used to display texts in various sizes.
+2. Bootstrap Heading - Bootstrap heading  were used to display texts in various sizes.
