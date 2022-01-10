@@ -21,7 +21,8 @@ This  assignment consists of three technical analyses consisting of the followin
 
 1. Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
 2. Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
-3. Deliverable 3: Add Bootstrap 3 Components
+3. Deliverable 3: Add Bootstrap 3 Components - Here we added various Bootstrap elements such as created a striped table, added a container
+    - 
 
 ## Tools Used :
 
@@ -74,5 +75,24 @@ Here, the latest News Title and Paragraph Text is collected.
 3. Mars Facts
 Pandas is used to scrape the table containing facts about the planet including Diameter, Mass, etc. from the Mars Facts page.
 
-4.Mars Hemispheres
+4. Mars Hemispheres
 From the Astrogeology site, full resolution images for each of Mars' hemispheres are obtained and displayed.
+
+## Webpage :
+
+![snapshot 1](https://user-images.githubusercontent.com/23488019/148728230-69369d9e-51bf-4e48-86cd-6d29b64f40dc.PNG)
+
+## Mobile Responsive :
+
+1. Snapshot of Mobile responsiveness for Iphone XR - 
+
+![snapshot Iphone XR](https://user-images.githubusercontent.com/23488019/148728114-835c945f-cb32-4002-8520-a792f54a248d.PNG)
+
+2. Snapshot of mobile responsivesness for Ipad Air - 
+
+![snapshot Ipad Air toggle](https://user-images.githubusercontent.com/23488019/148728116-11f42c54-9b3e-4f15-96ad-3d02a36c85f6.PNG)
+
+## Bootstrap components added extra:
+
+1. Bold - <strong></strong> was added to the titles to make texts in bold format.
+2. Bootstrap Heading - Bootstrap heading <h1></h1> to <h4></h4> were used to display texts in various sizes.
