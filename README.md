@@ -1,5 +1,5 @@
 # Mission-To-Mars
-
+Robin, who loves astronomy and wants to work for NASA one day, has decided to use a specific method of gathering the latest data: web scraping. Using this technique, she has the ability to pull data from multiple websites, store it in a database, then present the collected data in a central location: a webpage. 
 
 # Background :
 
@@ -15,4 +15,26 @@ Robin, who loves astronomy and wants to work for NASA one day, has decided to us
 Web scraping is a method used by organizations worldwide to extract online data for analysis. Large co
 employ web scraping to assess their reputations or track their competitors' online presence.
 On a smaller scale, web scraping automates tedious tasks for personal projects.
+
+
 ![data-10-1-1-1-use-the-web-scraping-method-extract-into-mongo](https://user-images.githubusercontent.com/23488019/148616782-98d2d5ab-c80b-411d-8847-5f30d4a985ee.png)
+
+1. HTML is a coding language used for creating webpages. It’s built using specific tags and arranging them in a nested order, a bit like building blocks.
+
+2. Robin has decided to practice identifying specific data using Chrome Developer Tools (also known as DevTools). This tool allows developers to look at the structure of any webpage. 
+
+3. Splinter
+Splinter is the tool that will automate our web browser as we begin scraping. This means that it will open the browser, visit a webpage, and then interact with it (such as logging in or searching for an item). 
+
+4. MongoDB (Mongo for short) is a non-relational database that stores data in Binary JavaScript Object Notation (JSON), or BSON format. A Mongo database contains collections. These collections contain documents, and each document contains fields, and fields are where the data is stored.
+
+While Mongo and SQL are both databases, that's where the similarities end. They handle documents differently, the storage model isn't even close, and we even interact with them in very different ways.
+
+# Libraries installed :
+- Flask-PyMongo
+- html5lib (Used to parse HTML in Python)
+- lxml (Used to parse HTML in Python)
+- PyMongo
+- BeautifulSoup(bs4)
+- webdriver_manager
+- splinter
